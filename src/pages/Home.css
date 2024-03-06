@@ -1,0 +1,48 @@
+.home-container {
+    margin: 20px;
+  }
+  
+  .home-title {
+    font-size: 24px;
+    margin-bottom: 20px;
+  }
+  
+  .create-post-container {
+    margin-bottom: 20px;
+  }
+  
+  .create-post-title {
+    font-size: 18px;
+    margin-bottom: 10px;
+  }
+  
+  .post-input {
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 10px;
+  }
+  
+  .create-post-button {
+    padding: 8px 16px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+  }
+  
+  .post-list {
+    margin-top: 20px;
+  }
+  
+  .post-item {
+    margin-bottom: 20px;
+  }
+  
+  .post-title {
+    font-size: 20px;
+    margin-bottom: 5px;
+  }
+  
+  .post-body {
+    color: #666;
+  }
